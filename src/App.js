@@ -64,7 +64,7 @@ function App() {
   useEffect(() => {
     fetch(
       `https://pokeapi.co/api/v2/pokemon/${
-        isNewPokemon ? pokemonName : "pikachu"
+        isNewPokemon ? pokemonName.toLowerCase() : "pikachu"
       }`
     )
       .then((Response) => Response.json())
