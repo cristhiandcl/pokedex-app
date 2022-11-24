@@ -1,6 +1,6 @@
 # Pokedex
 
-This project was created with reactJs and styled with TailwindCss, it's my firs attempt of a pokedex, here you can search for any pokemon, find some of its stats and also download its information, go and check it out.
+This project was created with reactJs and styled with TailwindCss, it's my first attempt of a pokedex, here you can search for any pokemon, find some of its stats and also download its information, go and check it out.
 
 * https://cristhiandcl.github.io/pokedex-app/
 
